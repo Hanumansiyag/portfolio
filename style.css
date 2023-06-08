@@ -1,105 +1,96 @@
-body{
-  			background-color: gray;
+      body{
+  			background-color: black;
   			margin: 0%;
   			padding: 0%;
+        color: white;
   		}
-  		#nav{
-  			background-color: #454545;
-  			color: white;
-  		}
-      #nav2{
-        text-align: center;
-        font-size: 18px;
-      }
-      #nav2 li{
-        display: inline;
-        float: left;        
-      }
-      #nav2 a{
-        display: inline-block;
-        width: 165px;
-        text-align: center;
-        text-decoration: none;
-      }
-  		footer{
-  			background-color: #454545;
-  			color: white;
-  		}
+
   		h2{
   			font-weight: bold;
   			font-family: sans-serif;
   		}
+
   		a:hover{
   			text-decoration: none;
-  			color: white;
   		}
-  		#table{
-  			height: 60px;
-  			width: 100%;
-  		}
+
+      p{
+        font-size: 20px;
+      }
+
+      td{
+        text-align: center;
+        color: white;
+      }
+
   		.img-fluid{
   			border-radius: 25px;
+        width: 600px;
+        height: 300px;
   		}
+
   		#main{
-  			background-color: #454545;
-  			border-radius: 25px;
-  			color: white;
+        height: 320px;
+        width: 280px;
   		}
-  		#main1{
-  			background-color: white;
-  			border-radius: 25px;
-  			color: white;
-  		}
+
   		#edu{
-  			background-color: #454545;
+  			background-color: gray;
   			font-family: sans-serif;
   			font-size: 20px;
-  			color: white;
   			border-radius: 25px;
+        color: white;
   		}
-  		#exp{
-  			background-color: white;
-  			border-radius: 25px;
-  		}
-  		#exp1{
-  			background-color: #454545;
-  			color: white;
-  			border-radius: 25px;
-  		}
-  		#pro{
-  			background-color: white;
-  			border-radius: 25px;
-  		}
-  		#pro1{
-  			background-color: #454545;
-  			color: white;
-  			border-radius: 25px;
-  		}
+  		
+      #ski0{
+        margin-top: 10%;
+        text-align: center;
+      }
+
   		#ski{
-  			margin-left: 4%;
-  			background-color: #454545;
-  			color: white;
-  			font-weight: bold;
-  			border-radius: 25px;
-  		}
-  		#ski1{
   			margin-left: 2.7%;
-  			background-color: #454545;
-  			color: white;
+  			background-color: gray;
   			font-weight: bold;
   			border-radius: 25px;
   		}
+
+  		#ski1{
+  			margin-left: 3.5%;
+  			background-color: gray;
+  			font-weight: bold;
+  			border-radius: 25px;
+  		}
+
+      #ski2{
+        margin-left: 8%;
+        background-color: gray;
+        font-weight: bold;
+        border-radius: 25px;
+      }
+
   		#achi{
   			margin-left: 6%;
-  			background-color: #454545;
-  			color: white;
+  			background-color: gray;
   			font-weight: bold;
   			border-radius: 25px;
   		}
+
   		#achi1{
-  			margin-left: 18%;
-  			background-color: #454545;
-  			color: white;
+  			margin-left: 10%;
+  			background-color: gray;
   			font-weight: bold;
   			border-radius: 25px;
   		}
+
+      footer{
+        color: black;
+      }
+
+      .col-sm-6{
+        overflow: hidden;
+        transition: 0.2s linear;
+      }
+
+      img:hover{
+        transform: scale(1.1);
+      }
