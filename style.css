@@ -23,10 +23,16 @@
         color: white;
       }
 
-  		.img-fluid{
-  			border-radius: 25px;
+      #cer{
+        border-radius: 25px;
         width: 600px;
         height: 300px;
+      }
+
+  		.img-fluid{
+  			border-radius: 25px;
+        width: 350px;
+        height: 200px;
   		}
 
   		#main{
@@ -47,46 +53,40 @@
         text-align: center;
       }
 
-  		#ski{
+  		#ski1{
   			margin-left: 2.7%;
   			background-color: gray;
   			font-weight: bold;
   			border-radius: 25px;
   		}
 
-  		#ski1{
+  		#ski2{
   			margin-left: 3.5%;
   			background-color: gray;
   			font-weight: bold;
   			border-radius: 25px;
   		}
 
-      #ski2{
+      #ski3{
         margin-left: 8%;
         background-color: gray;
         font-weight: bold;
         border-radius: 25px;
       }
 
-  		#achi{
-  			margin-left: 6%;
-  			background-color: gray;
-  			font-weight: bold;
-  			border-radius: 25px;
-  		}
-
   		#achi1{
-  			margin-left: 10%;
+  			margin-left: 3%;
   			background-color: gray;
   			font-weight: bold;
   			border-radius: 25px;
+        text-align: center;
   		}
 
       footer{
         color: black;
       }
 
-      .col-sm-6{
+      .col-sm-4{
         overflow: hidden;
         transition: 0.2s linear;
       }
