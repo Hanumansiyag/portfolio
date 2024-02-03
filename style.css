@@ -31,8 +31,8 @@
 
   		.img-fluid{
   			border-radius: 25px;
-        width: 350px;
-        height: 200px;
+        width: 400px;
+        height: 250px;
   		}
 
   		#main{
@@ -54,25 +54,18 @@
       }
 
   		#ski1{
-  			margin-left: 2.7%;
+  			margin-left: 5%;
   			background-color: gray;
   			font-weight: bold;
   			border-radius: 25px;
   		}
 
   		#ski2{
-  			margin-left: 3.2%;
+  			margin-left: 3%;
   			background-color: gray;
   			font-weight: bold;
   			border-radius: 25px;
   		}
-
-      #ski3{
-        margin-left: 3.2%;
-        background-color: gray;
-        font-weight: bold;
-        border-radius: 25px;
-      }
 
   		#achi1{
   			margin-left: 3%;
